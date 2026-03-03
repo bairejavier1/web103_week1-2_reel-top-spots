@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/43c3cbad3841469ab2a13431be8dd8ab.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  Add GIF tool here
@@ -48,6 +48,10 @@ GIF created with Loom  Add GIF tool here
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+
+> Implementing dynamic routes with Express (/spots/:slug) required structuring the data carefully and ensuring each fishing spot had a unique slug for proper navigation.
+> Implementing dynamic routes with Express (/spots/:slug) required structuring the data carefully and ensuring each fishing spot had a unique slug for proper navigation.
+> Styling the app using Picocss without a frontend framework improved my understanding of server-side rendering, semantic HTML structure, and responsive grid layouts.
 
 ## License
 
