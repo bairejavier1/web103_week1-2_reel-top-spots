@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 **Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
-
-<img src='https://submissions.us-east-1.linodeobjects.com/web103/tiEz8vg4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.loom.com/sessions/thumbnails/43c3cbad3841469ab2a13431be8dd8ab-d88c742399589287-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  Add GIF tool here
